@@ -35,7 +35,3 @@ group :test do
 	gem 'factory_girl'
 	gem 'capybara'
 end
-
-group :production do
-	gem 'pg'
-end
